@@ -8,7 +8,7 @@ I ask that you do not sell this project without consulting me first. In the even
 Speaking of the creators of this project, if you feel generous today, please think about leaving a donation via PayPal.
 Each major contributor to the project's paypal is listed below:
 
-[![paypal](https://www.paypalobjects.com/en_US/i/btn/btn_donateCC_LG.gif)](dboyd@aikenstandard.com)
+[![paypal](paypal.me/EntropyMC)]
 
 I will be adding more donation links as more people contribute to SEIGE.
 Thank you.
